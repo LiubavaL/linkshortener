@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://localhost:5000",
+    "port": 5000,
+    "jwtSecret": "liubava mern course",
+    "mongoUri": "mongodb+srv://liubava:cHhsYbhTWSZUI4YE@cluster0-83pkx.azure.mongodb.net/test?retryWrites=true&w=majority"
+}
